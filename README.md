@@ -1,5 +1,5 @@
 # duplicateChecker
-duplicateChecker
+duplicateChecker - check id duplicate
 
 # 使用方法
 
